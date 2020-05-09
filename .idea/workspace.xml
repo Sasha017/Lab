@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd2012de-efe0-4603-9a69-76166160ec78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b6IJ7esPmTGMWitL6Vs13lfdAX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.DisponsableTableWareManagerUtilsTest">
+    <configuration name="DisponsableTableWareManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.tableware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.tableware" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.tableware.DisponsableTableWareManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisponsableTableWareManagerUtilsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.tableware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.tableware" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.tableware.DisponsableTableWareManagerUtilsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisponsableTableWareManagerUtilsTest.testSortByFireResistance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.tableware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.tableware" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.tableware.DisponsableTableWareManagerUtilsTest" />
+      <option name="METHOD_NAME" value="testSortByFireResistance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisponsableTableWareManagerUtilsTest.testSortByMatherialType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.tableware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.tableware" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.tableware.DisponsableTableWareManagerUtilsTest" />
+      <option name="METHOD_NAME" value="testSortByMatherialType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisponsableTableWareManagerUtilsTest.testsortByDateOfManufactureAndMatherial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="worked" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.lviv.iot.tableware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.lviv.iot.tableware" />
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.tableware.DisponsableTableWareManagerUtilsTest" />
+      <option name="METHOD_NAME" value="testsortByDateOfManufactureAndMatherial" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DisponsableTableWareManagerUtilsTest" />
+        <item itemvalue="JUnit.DisponsableTableWareManagerUtilsTest.testSortByFireResistance" />
+        <item itemvalue="JUnit.DisponsableTableWareManagerUtilsTest.testsortByDateOfManufactureAndMatherial" />
+        <item itemvalue="JUnit.DisponsableTableWareManagerUtilsTest.testSortByMatherialType" />
+        <item itemvalue="JUnit.DisponsableTableWareManagerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd2012de-efe0-4603-9a69-76166160ec78" name="Default Changelist" comment="" />
+      <created>1587946041055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587946041055</updated>
+      <workItem from="1587946055598" duration="2086000" />
+      <workItem from="1588973224059" duration="7790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1009" height="149" key="GridCell.Tab.0.bottom" timestamp="1588981250519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1009" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588981250519" />
+    <state width="1009" height="149" key="GridCell.Tab.0.center" timestamp="1588981250518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1009" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588981250518" />
+    <state width="1009" height="149" key="GridCell.Tab.0.left" timestamp="1588981250517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1009" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588981250517" />
+    <state width="1009" height="149" key="GridCell.Tab.0.right" timestamp="1588981250519">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1009" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588981250519" />
+    <state x="467" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588973213187">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588973213187" />
+  </component>
+</project>
